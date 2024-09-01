@@ -1,0 +1,14 @@
+/* .s{
+    color: #dee0f2;
+} */
+
+/* .App{margin: 2rem;} */
+
+*{}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.slick-next{display: none !important;}
+ .slick-prev{display: none !important;}
